@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+/* Rainbow Pulse Branco e Azul */
+@keyframes rainbowPulseBlueWhite {
+  0% {
+    box-shadow: 0 0 5px #ffffff,
+                0 0 10px #ffffff,
+                0 0 20px #1e90ff;
+  }
+
+  50% {
+    box-shadow: 0 0 10px #ffffff,
+                0 0 20px #00bfff,
+                0 0 40px #1e90ff;
+  }
+
+  100% {
+    box-shadow: 0 0 5px #ffffff,
+                0 0 10px #ffffff,
+                0 0 20px #1e90ff;
+  }
+}
+
+.rainbow-pulse {
+  animation: rainbowPulseBlueWhite 1.5s infinite ease-in-out;
+}
