@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**🔗 [Clique aqui e conheça o Projeto Voluntario!!](https://dfinal-connect-evw.vercel.app/)**
+**🔗 [Clique aqui e conheça o Projeto Desafio Connect!!](https://dfinal-connect-evw.vercel.app/)**
 
 <br>
 
