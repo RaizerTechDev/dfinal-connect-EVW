@@ -1,5 +1,13 @@
 # 🌐🔗 Site Connect — Plataforma de Impacto Social
 
+<div align="center">
+
+**🔗 [Clique aqui e conheça o Projeto Voluntario!!](https://dfinal-connect-evw.vercel.app/)**
+
+<br>
+
+<div align="left">
+
 O **Site Connect** é uma aplicação front-end desenvolvida para conectar pessoas a iniciativas sociais que geram impacto real na comunidade.
 
 A plataforma reúne oportunidades de:
@@ -13,11 +21,7 @@ O projeto foi criado com foco em prática, organização e aplicação real dos 
 
 ---
 
-## 🚀 Preview
-
-```md
-![Preview do Projeto](https://dfinal-connect-evw.vercel.app/)
-```
+<br>
 
 ## ✨ Funcionalidades
 
