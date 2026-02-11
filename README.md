@@ -16,7 +16,7 @@ O projeto foi criado com foco em prática, organização e aplicação real dos 
 ## 🚀 Preview
 
 ```md
-![Preview do Projeto](./preview.png)
+![Preview do Projeto](https://dfinal-connect-evw.vercel.app/)
 ```
 
 ## ✨ Funcionalidades
