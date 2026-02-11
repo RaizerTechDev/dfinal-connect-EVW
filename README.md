@@ -1,48 +1,156 @@
-# 🌍 Connect
+# 🌐🔗 Site Connect — Plataforma de Impacto Social
 
-**Connect** é uma aplicação front-end voltada para **ações sociais**, criada com o objetivo de conectar pessoas a iniciativas que fazem a diferença, como **doações, mentoria, voluntariado, eventos e palestras**.
+O **Site Connect** é uma aplicação front-end desenvolvida para conectar pessoas a iniciativas sociais que geram impacto real na comunidade.
 
-O projeto foi desenvolvido com foco em **aprendizado prático**, aplicando conceitos essenciais do ecossistema React em um cenário real.
+A plataforma reúne oportunidades de:
+
+💖 Doações  
+🤝 Voluntariado  
+🎓 Mentoria  
+🎤 Eventos e Palestras  
+
+O projeto foi criado com foco em prática, organização e aplicação real dos principais conceitos do ecossistema React.
 
 ---
+
+## 🚀 Preview
+
+```md
+![Preview do Projeto](./preview.png)
+```
 
 ## ✨ Funcionalidades
 
-- 🏠 **Página Inicial** com apresentação do projeto
-- 💖 **Página de Doações**
-- 🎓 **Página de Mentoria**
-- 🤝 **Página de Voluntariado**
-- 🎤 **Página de Eventos e Palestras**
-- 👤 **Página do Usuário**
-- 🔁 Navegação entre páginas usando rotas
-- 📱 Layout totalmente **responsivo**
-- 🖱️ Interações com eventos de clique (`onClick`)
+🏠 Página Inicial com apresentação da proposta
 
----
+💖 Página de Doações com interação visual
 
-## 🛠️ Tecnologias Utilizadas
+🎓 Página de Mentoria
 
-- **React.js**
-- **React Router DOM**
-- **SCSS / CSS Modules**
-- **JavaScript (ES6+)**
-- **React Icons**
-- **SweetAlert**
+🤝 Página de Voluntariado
 
----
+🎤 Página de Eventos e Palestras
 
-## 📚 Conceitos Trabalhados
+👤 Página de Perfil do Usuário
 
-Este projeto foi fundamental para fixar os seguintes aprendizados:
+🔔 Alertas interativos com SweetAlert2
 
-- Criação e organização de **rotas com `react-router-dom`**
-- Componentes reutilizáveis utilizando **props**
-- **Eventos** em React (ex: `onClick` em botões)
-- **Responsividade** para diferentes tamanhos de tela
-- Organização de projeto e boas práticas de commits
+🔁 Navegação dinâmica com React Router
 
----
+📱 Layout 100% responsivo
 
-## 🙌 Créditos
+🎨 Estilização modular com SCSS
 
-Este projeto foi desenvolvido como parte da formação em Full-Stack da **Escola Vai na Web**.
+🛠️ Tecnologias Utilizadas
+
+⚛️ React.js
+
+🧭 React Router DOM
+
+🎨 SCSS (CSS Modules)
+
+💡 JavaScript (ES6+)
+
+🎭 React Icons
+
+🔔 SweetAlert2
+
+🧠 Conceitos Aplicados
+
+## Durante o desenvolvimento foram trabalhados:
+
+- Estruturação de SPA (Single Page Application)
+
+- Organização de rotas com react-router-dom
+
+- Componentização e reutilização com props
+
+- Manipulação de eventos (onClick)
+
+- Modularização de estilos com SCSS
+
+- Responsividade com Media Queries
+
+- Separação de responsabilidades entre páginas e componentes
+
+- Boas práticas de organização de projeto
+
+<br>
+
+## 📂 Estrutura do Projeto
+
+```
+src/
+ ├── assets/
+ ├── components/
+ │     └── footer/
+ │     └── header/
+ │     └── infoCard/
+ ├── pages/
+ │     ├── doacao/
+ │     ├── eventosEPalestras/
+ │     ├── mentoria/
+ │     ├── paginaInicial/
+ │     ├── usuario/
+ │     ├── voluntariado/
+ │     └── Style.module/
+ ├── App/
+ ├── globalStyle/
+ ├── main/
+ ```
+
+## 🚀 Como Executar o Projeto
+
+```
+ # Clonar o repositório 
+git clone https://github.com/seu-usuario/connect.git
+
+# Entrar na pasta
+cd connect
+
+# Instalar dependências
+npm install
+
+# Rodar o projeto
+npm run dev
+
+```
+
+<br>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xic3hvcGJwZ3loMjJya3U0YzRtbWU3bG5zbG5xaGd4bXJyaWtscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UW2tFD1sk7FB389Jg3/giphy.gif" align="right" height="50" width="60" />
+
+## **Objetivo do Projeto**
+
+O Site Connect foi desenvolvido como parte do processo de aprendizado em desenvolvimento front-end, com o objetivo de:
+
+Consolidar fundamentos do React
+
+Trabalhar boas práticas de organização
+
+Criar uma aplicação com propósito social
+
+Simular um cenário real de produto digital
+
+<br>
+
+## 👨‍💻 Autor
+
+<table>
+<tr>
+  <td align="center">
+    <img src="https://avatars.githubusercontent.com/u/87991807?v=4" width="80" />
+  </td>
+  <td>
+    **RafaRaizer-Dev** <br>
+    <a href="https://api.whatsapp.com/send/?phone=47999327137">📱 WhatsApp</a> | 
+    <a href="https://www.linkedin.com/in/raizer-rafael/">💼 LinkedIn</a> | 
+    <a href="https://github.com/RaizerTechDev">🐱 GitHub</a> | 
+    <a href="https://raizertechdev-portfolio.netlify.app/">🌐 Portfólio</a>
+  </td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
