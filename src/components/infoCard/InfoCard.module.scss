@@ -41,6 +41,10 @@
 
 @media (max-width: 768px) {
   .article {
+    img {
+      margin-top: -5rem;
+    
+    }
     h2 {
       font-size: 25px;
     }
