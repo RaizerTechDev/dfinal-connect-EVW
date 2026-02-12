@@ -1,4 +1,4 @@
-# 🌐🔗 Site Connect — Plataforma de Impacto Social
+# 🌐 Site Connect — Plataforma de Impacto Social
 
 <div align="center">
 
