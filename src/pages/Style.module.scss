@@ -33,6 +33,7 @@
 @media (max-width: 768px) {
   .main {
     height: 160vh;
+      padding: 30px;
 
     h1 {
       font-size: 40px;     
@@ -44,10 +45,11 @@
 
       article {
         min-width: 252px;
+         margin: 10px;
       }
 
       article:not(:last-child) {
-        border-right: none;
+        border-right: none;        
       }
     }
   }
@@ -58,3 +60,4 @@
     height: 220vh;
   }
 }
+
