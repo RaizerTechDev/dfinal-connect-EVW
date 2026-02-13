@@ -31,9 +31,12 @@
 }
 
 @media (max-width: 768px) {
+  .doacao {
+    margin-right:25px;
+  
+  }
   .main {
-    height: 160vh;
-      padding: 30px;
+    height: 160vh;   
 
     h1 {
       font-size: 40px;     
