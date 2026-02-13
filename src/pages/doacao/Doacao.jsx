@@ -7,7 +7,7 @@ import Conecta from "../../assets/images/doacao/conecta.png";
 const Doacao = () => {
   return (
     <main className={style.main}>
-      <h1>Doação</h1>
+      <h1 className={style.doacao}>Doação</h1>
       <section>
         <article>
           <InfoCard
