@@ -19,7 +19,7 @@ const PaginaInicial = () => {
           </article>
           <article>
             <h2>1.2K+</h2>
-            <h3>Projetos Realizados</h3>
+            <h3 className={style.stats}>Projetos Realizados</h3>
           </article>
           <article>
             <h2>50K+</h2>
