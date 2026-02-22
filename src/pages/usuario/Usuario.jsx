@@ -5,9 +5,9 @@ const Usuario = () => {
   return (
     <main className={style.main}>
       <section>
-        <img className={style.avatar}
-           src="https://media.licdn.com/dms/image/v2/D4E03AQGZrIgB7Q36Ow/profile-displayphoto-scale_400_400/B4EZlOtr7LIIAg-/0/1757962229693?e=1771459200&v=beta&t=jbwUes5lwH5JBobuJLF8lYfY-VH3lBdKO_-k_pawjSE"
-                alt="Avatar do usuário"
+        <img className={style.avatar} 
+        src="https://media.licdn.com/dms/image/v2/D4E03AQGZrIgB7Q36Ow/profile-displayphoto-scale_400_400/B4EZlOtr7LIIAg-/0/1757962229693?e=2147483647&v=beta&t=eH_Z3ktVkGbSIxa9AAJNwUKblxjJ6DN_NjJ0RNTX59k"
+                              alt="Avatar do usuário"
         />
         <div className={style.div}>
           <h1>Rafael Raizer</h1>
