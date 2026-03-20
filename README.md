@@ -2,6 +2,19 @@
 
 <div align="center">
 
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-REACT-E34F26?style=for-the-badge&logo=react&logoColor=white" alt="REACT" /></td>
+    <td><img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /></td>
+    <td><img src="https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></td>
+    <td><img src="https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td>     
+    <td><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
+    <td><img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /></td>
+  </tr>
+</table>
+
+<br>
+
 **🔗 [Clique aqui e conheça o Projeto Desafio Connect!!](https://dfinal-connect-evw.vercel.app/)**
 
 <br>
@@ -45,7 +58,11 @@ O projeto foi criado com foco em prática, organização e aplicação real dos 
 
 🎨 Estilização modular com SCSS
 
-🛠️ Tecnologias Utilizadas
+---
+
+<br>
+
+## 🛠️ Tecnologias Utilizadas
 
 ⚛️ React.js
 
@@ -59,7 +76,11 @@ O projeto foi criado com foco em prática, organização e aplicação real dos 
 
 🔔 SweetAlert2
 
-🧠 Conceitos Aplicados
+---
+
+<br>
+
+** 🧠 Conceitos Aplicados
 
 ## Durante o desenvolvimento foram trabalhados:
 
@@ -78,6 +99,8 @@ O projeto foi criado com foco em prática, organização e aplicação real dos 
 - Separação de responsabilidades entre páginas e componentes
 
 - Boas práticas de organização de projeto
+
+---
 
 <br>
 
@@ -102,6 +125,10 @@ src/
  ├── globalStyle/
  ├── main/
  ```
+
+---
+
+<br>
 
 ## 🚀 Como Executar o Projeto
 
@@ -135,6 +162,8 @@ Trabalhar boas práticas de organização
 Criar uma aplicação com propósito social
 
 Simular um cenário real de produto digital
+
+---
 
 <br>
 
