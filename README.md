@@ -1,6 +1,6 @@
 # 🌐 Site Connect — Plataforma de Impacto Social
 
->  **"Aplicação front-end desenvolvida para conectar pessoas a iniciativas sociais que geram impacto real na comunidade."***
+>  ***"Aplicação front-end desenvolvida para conectar pessoas a iniciativas sociais que geram impacto real na comunidade."***
 
 <table>
   <tr>
