@@ -1,27 +1,41 @@
 # 🌐 Site Connect — Plataforma de Impacto Social
 
-<div align="center">
+>  **"Aplicação front-end desenvolvida para conectar pessoas a iniciativas sociais que geram impacto real na comunidade."***
 
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/-REACT-E34F26?style=for-the-badge&logo=react&logoColor=white" alt="REACT" /></td>
     <td><img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /></td>
     <td><img src="https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></td>
-    <td><img src="https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td>     
-    <td><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
-    <td><img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /></td>
-  </tr>
+    <td><img src="https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td>
+    </tr>
 </table>
 
 <br>
 
+<div align="center">
+
+🎥Demonstração
+
+<img height="480px" src="src/assets/images/site-connect-linkedln.png" />
+
+<br><br>
+
+🚀 Acesse o Projeto
+
 **🔗 [Clique aqui e conheça o Projeto Desafio Connect!!](https://dfinal-connect-evw.vercel.app/)**
+
+</div>
+
+---
 
 <br>
 
 <div align="left">
 
-O **Site Connect** é uma aplicação front-end desenvolvida para conectar pessoas a iniciativas sociais que geram impacto real na comunidade.
+## 📄 Sobre o Projeto
+
+O projeto foi criado com foco em prática, organização e aplicação real dos principais conceitos do ecossistema React.
 
 A plataforma reúne oportunidades de:
 
@@ -29,8 +43,6 @@ A plataforma reúne oportunidades de:
 🤝 Voluntariado  
 🎓 Mentoria  
 🎤 Eventos e Palestras  
-
-O projeto foi criado com foco em prática, organização e aplicação real dos principais conceitos do ecossistema React.
 
 ---
 
@@ -80,7 +92,8 @@ O projeto foi criado com foco em prática, organização e aplicação real dos 
 
 <br>
 
-** 🧠 Conceitos Aplicados
+##  🧠 Conceitos Aplicados
+
 
 ## Durante o desenvolvimento foram trabalhados:
 
@@ -166,6 +179,14 @@ Simular um cenário real de produto digital
 ---
 
 <br>
+
+### Licença
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+---
+
+</br> 
 
 ## 👨‍💻 Autor
 
